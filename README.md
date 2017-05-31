@@ -11,3 +11,5 @@ When you press the buttonA on micro:bit, it will give you the following LED stat
 -No mail
 -No signal (transmitter is out of range) or the transmitter battery is flat.
 
+FD
+
